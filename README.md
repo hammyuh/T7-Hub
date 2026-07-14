@@ -8,6 +8,7 @@ T7 Hub lets you switch between BO3 clients without manually moving files around.
 
 ## IMPORTANT
 This should be obvious but in case it isn't: make sure you use the manual Windows / Linux install version of T7 Patch instead of the Windows-exclusive version.
+
 RIP Alyssa / shiversoftdev 
 
 ## Download
