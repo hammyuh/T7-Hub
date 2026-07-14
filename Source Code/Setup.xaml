@@ -71,7 +71,7 @@
 
 
                 <TextBlock
-                    Text="Required Files:"
+                    Text="Client List:"
                     Foreground="White"
                     FontSize="18"
                     FontWeight="Bold"

@@ -121,7 +121,8 @@ namespace T7_Hub
                 "BlackOps3.exe"
             );
 
-            return File.Exists(path);
+
+            return ExeChecker.CheckBO3(path) == "New";
         }
 
 
@@ -133,7 +134,8 @@ namespace T7_Hub
                 "BlackOps3.exe"
             );
 
-            return File.Exists(path);
+
+            return ExeChecker.CheckBO3(path) == "Old";
         }
 
 
