@@ -13,14 +13,14 @@ RIP Alyssa / shiversoftdev
 
 ## Download
 - Windows 10/11 64-bit
-Download: [Releases](https://github.com/hammyuh/T7Hub/releases/latest)
+Download: [Releases](https://github.com/hammyuh/BO3-Client-Manager/releases/latest)
 
 ## Required Files
 
 BO3 Client Manager does not include third-party clients. You must download them separately and place them into their matching Standby folders during setup.
 
 ## Stock and Old BO3 Executables
-Download: [Releases](https://github.com/hammyuh/T7Hub/releases/latest)
+Download: [Releases](https://github.com/hammyuh/BO3-Client-Manager/releases/latest)
 
 ## Supported Profiles
 - Stock BO3
