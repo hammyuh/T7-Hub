@@ -1,10 +1,10 @@
 ## AI Assistance Disclaimer
 This project was developed with AI assistance. AI contributed code suggestions, debugging help, and development guidance, but all design decisions, testing, final integration, (and most of the code lol) were handled by me.
 
-# T7 Hub
+# BO3 Client Manager
 
 A simple launcher and client manager for Call of Duty: Black Ops III.
-T7 Hub lets you switch between BO3 clients without manually moving files around.
+BO3 Client Manager lets you switch between BO3 clients without manually moving files around.
 
 ## IMPORTANT
 This should be obvious but in case it isn't: make sure you use the manual Windows / Linux install version of T7 Patch instead of the Windows-exclusive version.
@@ -17,7 +17,7 @@ Download: [Releases](https://github.com/hammyuh/T7Hub/releases/latest)
 
 ## Required Files
 
-T7 Hub does not include third-party clients. You must download them separately and place them into their matching Standby folders during setup.
+BO3 Client Manager does not include third-party clients. You must download them separately and place them into their matching Standby folders during setup.
 
 ## Stock and Old BO3 Executables
 Download: [Releases](https://github.com/hammyuh/T7Hub/releases/latest)
@@ -41,7 +41,7 @@ Download: [Releases](https://github.com/hammyuh/T7Hub/releases/latest)
 
 Before setup, remove any previously installed clients or modified files from your BO3 folder.
 
-T7 Hub manages client switching automatically after setup is complete.
+BO3 Client Manager manages client switching automatically after setup is complete.
 
 ## Development
 
